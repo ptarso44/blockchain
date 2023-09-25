@@ -1,0 +1,17 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "Basic blockchain app to learn blockchain development",
+  "main": "index.js",
+  "scripts": {
+	"dev": "tsc -w",
+  "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Paulo de Tarso [ptarso44@github.com]",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.6.2",
+    "typescript": "^5.2.2"
+  }
+}
